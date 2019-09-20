@@ -1,4 +1,4 @@
-# jsd-mlflow-examples
+# Sentiment analysis with imdb DataSet
 This is a collection of MLflow project examples that you can directly run with mlflow CLI commands or directly using Python.
 
 ## 1. Keras MLP Binary Classification Model.
