@@ -1,0 +1,13 @@
+name: binary-example
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command: "python main_nn.py"
+  reload:
+    command: "python reload_nn.py"
+  reproduce:
+    command: "python reproduce_run_nn.py"
+  predict:
+    command: "python predict_nn.py"
