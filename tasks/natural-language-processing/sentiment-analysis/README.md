@@ -126,7 +126,7 @@ This model can be loaded back as a `Python Function` as noted noted in [`mlflow.
 
 To execute this, you load the model you had saved within MLflow by going to the MLflow UI, selecting your run, and copying the path of the stored model as noted in the screenshot below.  
 
-![MLflow UI Copy Model Path](./images/mlflow_ui_load_model.png)
+
 
 Using the code sample `reload_nn.py`, you can load your saved model and re-run it using the command:
 
