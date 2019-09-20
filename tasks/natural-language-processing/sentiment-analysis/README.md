@@ -180,13 +180,3 @@ Writing TensorFlow events locally to /var/folders/b7/01tptb954h5_x87n054hg8hw000
 Train on 15000 samples, validate on 10000 samples
 Epoch 1/25
 15000/15000 [==============================] - 3s 189us/step - loss: 0.2497 - binary_accuracy: 0.5070 - val_loss: 0.2491 - val_binary_accuracy: 0.4947
-...
-```
-
-
-``` 
- 
-
- 
- 
-
