@@ -110,10 +110,6 @@ installing dependency packages listed in `conda.yml`
  
  `mlflow ui`
  
- These runs will not only log metrics for loss and accuracy but also log graphs generated from `matplotlib` for 
- perusal as part of visual artifacts.
- 
- ![Saved Arficats](./keras/imdbclassifier/images/mlflow_ui_artifacts.png)
  
  Finally, you can run this in a Jupyter Notebook: 
  ![Jupyter Notebook](./keras/imdbclassifier/keras_binary_nn.ipynb)
