@@ -169,7 +169,7 @@ epochs: 25
 loss: mse
 load model path: /tmp
 tracking server: None
-2018-09-12 10:25:24.378576: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2019-09-16 10:25:24.378576: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
 Experiment Model:
 Writing TensorFlow events locally to /var/folders/b7/01tptb954h5_x87n054hg8hw0000gn/T/tmpiva13sry
 
